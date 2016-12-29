@@ -1,4 +1,4 @@
-package cn.edu.bjtu.weibo.dao;
+package test.java;
 
 import java.util.HashSet;
 import java.util.Set;
